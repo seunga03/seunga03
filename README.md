@@ -18,15 +18,6 @@
   - JWT 인증, MBTI 기반 매칭 알고리즘, 실시간 채팅 기능 구현에 기여
 
 
-- **[SBB 프로젝트](https://github.com/seunga03/springboot-study)**  
-  - "점프 투 스프링부트" 학습 기반 게시판 웹 애플리케이션  
-  - JPA, H2 DB, 테스트 코드 작성 및 학습  
-
-- **[알고리즘 문제 풀이](https://github.com/seunga03/boj-pg-solving)**  
-  - 백준, 프로그래머스 문제 풀이 모음  
-  - Python/Java를 활용한 코딩 테스트 대비
-
-
 
 ## 📊 GitHub 활동
 ![Seunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunga03&show_icons=true&theme=default)
