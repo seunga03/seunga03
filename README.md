@@ -12,11 +12,6 @@
 
 
 
-## 📊 GitHub 활동
-![Seunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunga03&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunga03&layout=compact&theme=default)
-
-
 
 ## 🏆 Baekjoon Online Judge
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunga03)](https://solved.ac/seunga03)
@@ -26,9 +21,4 @@
 ## 📚 자격증
 - 정보처리기능사 **취득 (2023.09.20)**  
 - 정보처리기사 **취득 (2025.09.12)**
-- **백엔드 개발자 부트캠프(스프링)** 과정 수강 중 (25년 8월 25일 ~ 26년 1월 22일)
-
-
-
-## 🌐 블로그 & 링크
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://co-din9.tistory.com/)
+- **백엔드 개발자 부트캠프(스프링)** 과정 수강 (25년 8월 25일 ~ 26년 1월 22일)
