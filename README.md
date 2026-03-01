@@ -12,13 +12,6 @@
 
 
 
-## 📂 대표 프로젝트
-- **[AI DateApp (팀 프로젝트, 기여: 백엔드 개발)](https://github.com/lola161385/AI_DateApp_Capstone)**
-  - Spring Boot + Firebase + React 기반 소개팅/매칭 웹앱
-  - JWT 인증, MBTI 기반 매칭 알고리즘, 실시간 채팅 기능 구현에 기여
-
-
-
 ## 📊 GitHub 활동
 ![Seunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunga03&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunga03&layout=compact&theme=default)
